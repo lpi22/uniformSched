@@ -1,0 +1,19 @@
+=========================================================================================================
+  20240307				My mastersthesis calculations
+=========================================================================================================
+-20240307:111746:INFO:	The given makespan is 1
+=========================================================================================================
+-20240307:111746:INFO:	These are the input values of this test from file \iter2.dat
+						# jobs: 		35 
+						job sizes: 		1 
+						# machines: 		20 10 
+						speed values: 		1 2 
+=========================================================================================================
+-20240307:111746:INFO:	Number of columns in the configuration matrix: 5
+-20240307:111746:INFO:	The number of iterations I is 2
+-20240307:111746:INFO:	The box size D is 64
+-20240307:111746:INFO:	The bound for the box is 17
+-20240307:111902:TIME:	This test took 76328ms
+-20240307:111902:TIME:	The preprocessing of this test took 3ms
+-20240307:111902:TIME:	The iterations of this test took 76325ms
+-20240307:111902:INFO:	Instance is not feasible

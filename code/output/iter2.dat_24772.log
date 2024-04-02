@@ -1,0 +1,24 @@
+=========================================================================================================
+  20240223				My mastersthesis calculations
+=========================================================================================================
+=========================================================================================================
+-20240223:122014:INFO:	These are the input values of this test from file \iter2.dat
+						# jobs: 		35 
+						job sizes: 		1 
+						# machines: 		15 10 
+						speed values: 		1 2 
+=========================================================================================================
+-20240223:122014:INFO:	The guessed makespan is 1.5
+-20240223:122014:INFO:	Number of columns in the configuration matrix: 6
+-20240223:122014:INFO:	The number of iterations I is 1
+-20240223:122014:INFO:	The box size D is 108
+-20240223:122014:INFO:	The bound for the box is 35
+-20240223:122020:INFO:	The guessed makespan is 1
+-20240223:122020:INFO:	Number of columns in the configuration matrix: 5
+-20240223:122020:INFO:	The number of iterations I is 1
+-20240223:122020:INFO:	The box size D is 64
+-20240223:122020:INFO:	The bound for the box is 35
+-20240223:122022:TIME:	This test took 7513ms
+-20240223:122022:TIME:	The preprocessing of this test took 3ms
+-20240223:122022:TIME:	The iterations of this test took 7510ms
+-20240223:122022:INFO:	The makespan is 1
